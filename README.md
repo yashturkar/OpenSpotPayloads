@@ -46,11 +46,12 @@ OpenSpotPayloads/
 ├── docs/                     # Documentation & guides
 │   ├── README.md             # Project intro, context
 │   ├── networking.md         # power, networking, connection diagram
-├── hardware/                  # Mechanical + electronic design files
+├── hardware/                 # Mechanical + electronic design files
 |   ├── README.md 
-│   ├── aux_mount/             # Auxiliary mount for networking, power etc.
-│   ├── compute_lidar/         # Mount for Jetson + LiDAR  
-│   └── hot_swap/              # Hot-swap sensor mount  
+│   ├── aux_mount/            # Auxiliary mount for networking, power etc.
+│   ├── compute_lidar/        # Mount for Jetson + LiDAR  
+│   ├── radio_mount/          # Mount for Ubiquiti Bullet  
+│   └── hot_swap/             # Hot-swap sensor mount  
 └── media/                    # Images/videos for docs
 ```
 ---
