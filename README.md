@@ -52,7 +52,7 @@ For early access or collaboration opportunities, email me.
 If you use **OpenSpotPayloads** in your work, please cite this repository.  
 ```bibtex
 @misc{openspotpayloads,
-  author = {Yash Turkar},
+  author = {Yash Turkar, Christo Aluckal, Yashom Dighe, and others},
   title = {OpenSpotPayloads: Modular Payload System for Boston Dynamics Spot},
   year = {2025},
   url = {TBD}   
