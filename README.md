@@ -1,7 +1,7 @@
 # OpenSpotPayloads
 
 **OpenSpotPayloads** is an open-source, modular payload system for Boston Dynamics Spot.  
-It enables researchers and practitioners to rapidly integrate **hot-swappable sensors**, **Jetson compute**, and **long-range networking** for field robotics deployments.  
+It enables researchers and practitioners to rapidly integrate **hot-swappable sensors**, **Jetson compute**, and **long-range networking** for field robotics research.  
 
 > 📩 Interested in early access? Email me to get involved before the first release.  
 
