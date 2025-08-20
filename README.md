@@ -72,7 +72,8 @@ If you use **OpenSpotPayloads** in your work, please cite this repository.
   author = {Yash Turkar, Christo Aluckal, Yashom Dighe, and others},
   title = {OpenSpotPayloads: Modular Payload System for Boston Dynamics Spot},
   year = {2025},
-  url = {TBD}   
+  url = {https://github.com/yashturkar/OpenSpotPayloads}  
+} 
 ```
 
 ---
