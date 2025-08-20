@@ -4,8 +4,10 @@ This document describes the networking setup for **OpenSpotPayloads**.
 It covers how Spot, the Jetson, sensors, and the operator’s Steam Deck are connected through the payload electronics and wireless bridge.
 
 ---
-
 ## System Layout
+
+![Payload Networking Diagram](../media/Spot-Setup.png)
+
 - **Spot**  
   - GXP port provides power + network.  
   - Example IPs:  
