@@ -30,13 +30,29 @@ Payloads in action on Spot:
 
 ## 📂 Repository Status
 This repository is **under development**.  
-We will soon release:
+We are releasing the following components in stages:
 - CAD models (STEP/STL) for modular mounts.  
 - Electronics schematics, BOM, and power budget.  
 - ROS 2 nodes for sensor drivers and system bring-up.  
 - Example datasets (rosbags, logs) from deployments.  
 - Documentation and setup guides.  
 
+```plain
+OpenSpotPayloads/
+│
+├── README.md                 # Main repo overview
+├── LICENSE                   # GPLv3 license
+│
+├── docs/                     # Documentation & guides
+│   ├── README.md             # Project intro, context
+│   ├── networking.md         # power, networking, connection diagram
+├── hardware/                  # Mechanical + electronic design files
+|   ├── README.md 
+│   ├── aux_mount/             # Auxiliary mount for networking, power etc.
+│   ├── compute_lidar/         # Mount for Jetson + LiDAR  
+│   └── hot_swap/              # Hot-swap sensor mount  
+└── media/                    # Images/videos for docs
+```
 ---
 
 
